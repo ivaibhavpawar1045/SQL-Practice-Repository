@@ -19,3 +19,4 @@ select p.firstname , p.lastname , a.city , a.state
 from Person P
 left join Address A
 on p.personId = A.personId
+    
