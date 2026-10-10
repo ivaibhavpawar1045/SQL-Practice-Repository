@@ -9,7 +9,7 @@ Difficulty :-
 
 
 SELECT customer ,
-     name ,
+      name ,
      salary
 FROM DATA
 
